@@ -1,0 +1,54 @@
+﻿l_french:
+ activity_audience:0 "Audience"
+ activity_audience_owner:0 "Suppliant"
+ activity_audience_name:0 "L'Audience"
+
+ farewell_chaplain_event.0001.title:0 "L'Audience"
+ farewell_chaplain_event.0001.description:0 "Le grand auditorium est aussi grandiose que splendide, et Sa Sainteté me reçoit avec une particulière bienveillance.\n\nAprès une brève discussion sur mon état de santé et mon voyage, nous abordons le motif principal de ma venue, et bien que Sa Sainteté semble déjà pleinement au courant de la question, je souligne une fois de plus son importance.\n\n[current_head_of_faith.GetSheHe|U] me dirige vers le scriptorium adjacent, où je suis accueilli[CHARACTER.Custom('FR_E')] par un secrétaire qui étale un parchemin devant nous nommant et décrivant les successeurs potentiels.\n"
+ farewell_chaplain_event_option1:0 "\n[realm_priest_01.GetFirstName] est âgé[realm_priest_01.Custom('FR_E')] de [realm_priest_01.GetAge] ans et est de culture [realm_priest_01.GetCulture.GetName|U]. [realm_priest_01.GetSheHe|U] est né[realm_priest_01.Custom('FR_E')] à [hometown_realm_priest_01.GetProvince.GetName], où [realm_priest_01.GetSheHe] "
+ farewell_chaplain_event_option2:0 "\n\n[realm_priest_02.GetFirstName] est âgé[realm_priest_02.Custom('FR_E')] de [realm_priest_02.GetAge] ans et est de culture [realm_priest_02.GetCulture.GetName|U]."
+
+ farewell_chaplain_event_backstory_1:0 "a fréquenté une école monastique, comme le veut la tradition de sa famille et a développé un fort intérêt pour la théologie."
+ farewell_chaplain_event_backstory_2:0 "a été sauvé[realm_priest_01.Custom('FR_E')] de la noyade durant son enfance par un écclésiastique et s'est investi[realm_priest_01.Custom('FR_E')] dans la foi par gratitude."
+ farewell_chaplain_event_backstory_3:0 "a emprunté le chemin du diable avant d'être ramené[realm_priest_01.Custom('FR_E')], par la volonté de [ROOT.Char.GetFaith.PantheonTerm], vers la lumière. Ayant fait l'expérience directe du péché, [realm_priest_01.GetSheHe] recherche la rédemption avec une fervente dévotion."
+ farewell_chaplain_event_backstory_4:0 "a souvent fréquenté les archives du chancelier de son oncle durant son enfance et a appris à lire dès son plus jeune âge."
+ farewell_chaplain_event_backstory_5:0 "a tout abandonné pour chercher le salut de notre troupeau. [realm_priest_01.GetSheHe|U] parle peu de son passé, n'en voyant pas l'intérêt alors que ce monde n'est rien face à l'Éternité."
+ farewell_chaplain_event_backstory_6:0 "s'est pris de passion pour les enseignements de notre foi et a été encouragé[realm_priest_01.Custom('FR_E')] par la mère d'un bon ami à se consacrer à la prêche et à alimenter continuellement la confiance et la foi des gens en [ROOT.Char.GetFaith.PantheonTerm]."
+ 
+ farewell_chaplain_event_learning_excellent_1:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] d'une incroyable intelligence qui met tout son savoir et ses compétences au service de notre cause."
+ farewell_chaplain_event_learning_excellent_2:0 "L'éminente érudition de cette personne serait pour vous une source perpétuelle de joie et d'inspiration."
+ farewell_chaplain_event_learning_excellent_3:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] à l'intelligence remarquable dont les conseils pèsent plus que tout l'or de notre monde de mortels."
+ farewell_chaplain_event_learning_excellent_4:0 "Un joyau de notre communauté, qui ne peut s'empêcher de luire et de briller."
+ farewell_chaplain_event_learning_excellent_5:0 "Un grand esprit qui contribue au bien-être de tous de manière inlassable et avec une foi inébranlable." 
+ farewell_chaplain_event_learning_good_1:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] investi[realm_priest_02.Custom('FR_E')] d'une grande fiabilité, car [realm_priest_02.GetSheHe|U] a passé sa vie à étudier notre théologie. "
+ farewell_chaplain_event_learning_good_2:0 "[realm_priest_02.GetSheHe|U] a bénéficié d'une éducation exceptionnelle et a toujours manifesté[realm_priest_02.Custom('FR_E')] un grand intérêt pour le travail communautaire."
+ farewell_chaplain_event_learning_good_3:0 "La présence d'un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] avec un tel esprit dans son entourage procure un inestimable confort intérieur."
+ farewell_chaplain_event_learning_good_4:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] extrêmement bien instruit[realm_priest_02.Custom('FR_E')] dans le domaine des Saintes Écritures qui est à la recherche d'un nouveau défi. "
+ farewell_chaplain_event_learning_good_5:0 "[realm_priest_02.GetSheHe|U] a une intelligence remarquable et défend notre cause avec dévouement et passion."
+ farewell_chaplain_event_learning_average_1:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] très instruit[realm_priest_02.Custom('FR_E')] en théologie et en histoire."
+ farewell_chaplain_event_learning_average_2:0 "[realm_priest_02.GetSheHe|U] a reçu une éducation respectable et est capable d'assumer des responsabilités."
+ farewell_chaplain_event_learning_average_3:0 "Ce représentant exemplaire de notre foi sait comment remplir correctement ses tâches."
+ farewell_chaplain_event_learning_average_4:0 "Un[realm_priest_02.Custom('FR_E')] [ROOT.Char.GetFaith.PriestNeuter] qui s'engage dans la paroisse et dans le développement de notre foi."
+ farewell_chaplain_event_learning_average_5:0 "[realm_priest_02.GetSheHe|U] a une profonde connaissance et une compétence certaine pour garder le troupeau au sec."
+ farewell_chaplain_event_learning_poor_1:0 "Bien qu'[realm_priest_02.GetSheHe|U] ne semble pas avoir de talent évident pour nous servir en tant que prêtre, nous n'avons jamais eu de problèmes avec [realm_priest_02.GetHerHis] jusqu'à présent."
+ farewell_chaplain_event_learning_poor_2:0 "[realm_priest_02.GetSheHe|U] n'est pas fait[realm_priest_02.Custom('FR_E')] pour donner une réponse aux grandes questions de notre foi, mais [realm_priest_02.GetSheHe|U] est certainement capable de contribuer au maintien et au renforcement d'une communauté."
+ farewell_chaplain_event_learning_poor_3:0 "Certainement un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] de moindre compétence, [realm_priest_02.GetSheHe] a néanmoins toujours été aussi soucieux que désireux de réussir à raliser l'oeuvre du Seigneur pour notre bonheur et le bien commun de la communauté"
+ farewell_chaplain_event_learning_poor_4:0 "Un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] avec un parcours semé d'embûches qui n'a été que tardivement autorisé[realm_priest_02.Custom('FR_E')] à exercer sa passion pour la théologie, mais [realm_priest_02.GetSheHe|U] est un[realm_priest_02.Custom('FR_E')] [realm_priest_02.GetWomanMan] respecté[realm_priest_02.Custom('FR_E')] dans la communauté de son village."
+ farewell_chaplain_event_learning_poor_5:0 "Même si [realm_priest_02.GetSheHe] n'est pas l'un[realm_priest_02.Custom('FR_E')] de nos représentant[realm_priest_02.Custom('FR_E')]s les plus cultivé[realm_priest_02.Custom('FR_E')]s, [realm_priest_02.GetSheHe] entretient un bon lien avec sa communauté et a un goût prononcé pour la prédication."
+ 
+ farewell_chaplain_event_and:0 "et"
+ farewell_chaplain_event_comma:0 ","
+ farewell_chaplain_event_period:0 "."
+
+ farewell_chaplain_event.0001.a:0 "Je choisis [realm_priest_01.GetFirstNameNoTooltip] !"
+ farewell_chaplain_event.0001.b:0 "[realm_priest_02.GetFirstNameNoTooltip] me convient !"
+ farewell_chaplain_event.0001.c:0 "Finalement, peut-être que [current_realm_priest.GetFirstNameNoTooltip] n'est pas si mal..."
+ 
+ farewell_chaplain_event_effect_leaving_tooltip:0 "#V [current_realm_priest.GetFirstName] #! quitte votre cour !"
+ farewell_chaplain_event_effect_opinion_tooltip:0 "#V [current_realm_priest.GetFirstName] #! perd #N 20#! [opinion|E] avec vous pendant #V 10 ans#! #weak (Renvoyé du Conseil)#!"
+ farewell_chaplain_event_effect_joining_rp01_tooltip: "#V [realm_priest_01.GetFirstName] #! devient votre nouv[realm_priest_01.Custom('EauElle')] [realm_priest|E]"
+ farewell_chaplain_event_effect_joining_rp02_tooltip: "#V [realm_priest_02.GetFirstName] #! devient votre nouv[realm_priest_02.Custom('EauElle')] [realm_priest|E]"
+
+ # The monumental structure that represents the indomitable power of [ROOT.Char.GetFaith.PantheonTerm] is as easy to spot as a ray of sun breaking through the clouds.\n\n
+ # [GetPlayer.GetCurrentActivity.GetLocation.GetBarony.GetName]
+ # [current_holy_city.GetProvince.GetName]

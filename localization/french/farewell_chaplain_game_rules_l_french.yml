@@ -1,0 +1,14 @@
+﻿l_french:
+ rule_farewell_chaplain:0 "Adieu, Chapelain !"
+ setting_farewell_chaplain_enabled_10:0 "#high Activé#! (10 ans)"
+ setting_farewell_chaplain_enabled_10_desc:0 "#G Active#! la [decision|E] pour une audience avec votre chef de la foi afin de demander la mutation et le remplacement de votre Prêtre du pays. (#high tous les 10 ans#!)"
+ setting_farewell_chaplain_enabled_25:0 "#high Activé#! (25 ans)"
+ setting_farewell_chaplain_enabled_25_desc:0 "#G Active#! la [decision|E] pour une audience avec votre chef de la foi afin de demander la mutation et le remplacement de votre Prêtre du pays. (#high tous les 25 ans#!)"
+ setting_farewell_chaplain_enabled_lifetime:0 "#high Activé#! (À vie)"
+ setting_farewell_chaplain_enabled_lifetime_desc:0 "#G Active#! la [decision|E] pour une audience avec votre chef de la foi afin de demander la mutation et le remplacement de votre Prêtre du pays. (#high Une fois par vie#!)" 
+ setting_farewell_chaplain_disabled:0 "Désactivé"
+ setting_farewell_chaplain_disabled_desc:0 "#R Désactive#! la [decision|E] pour une audience avec votre chef de la foi afin de demander la mutation et le remplacement de votre Prêtre du pays."
+ 
+ # Related to: Trigger Localization: game rule, decision only available once per lifetime
+ FAREWELL_CHAPLAIN_ONCE_PER_LIFETIME:0 "Vous pouvez demander un nouveau prêtre qu'une fois par vie"
+ NOT_FAREWELL_CHAPLAIN_ONCE_PER_LIFETIME:0 "Vous pouvez demander un nouveau prêtre qu'une fois par vie"

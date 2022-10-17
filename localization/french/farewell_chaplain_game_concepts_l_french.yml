@@ -1,0 +1,3 @@
+﻿l_french:
+ game_concept_farewell_chaplain_murder:1 "$murder$"
+ game_concept_farewell_chaplain_murder_desc:1 "$murder$ est un [hostile_scheme|E] qui a pour objectif d'assassiner sa cible. Il s'agit d'un [secret_scheme|E] basé sur l'[intrigue|E], qui permet de recruter des [agents|E].\n\nUn $murder$ réussi entraînera la [character_death_death|E] de la [scheme_target|E]. Un meurtre qui réussit à rester caché donnera à son [scheme_owner|E] un [secret|E] de Meurtre.\n\nSe faire découvrir en train d'assassiner ou de réussir à assassiner quelqu'un est un [crime|E] grave."
